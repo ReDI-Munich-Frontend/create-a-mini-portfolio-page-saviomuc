@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-homework-template/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cra-homework-template/static/js/main.5c06b86a.chunk.js",
+    "main.js.map": "/cra-homework-template/static/js/main.5c06b86a.chunk.js.map",
+    "runtime-main.js": "/cra-homework-template/static/js/runtime-main.31642565.js",
+    "runtime-main.js.map": "/cra-homework-template/static/js/runtime-main.31642565.js.map",
+    "static/js/2.e2fdc5b8.chunk.js": "/cra-homework-template/static/js/2.e2fdc5b8.chunk.js",
+    "static/js/2.e2fdc5b8.chunk.js.map": "/cra-homework-template/static/js/2.e2fdc5b8.chunk.js.map",
+    "static/js/3.4122d781.chunk.js": "/cra-homework-template/static/js/3.4122d781.chunk.js",
+    "static/js/3.4122d781.chunk.js.map": "/cra-homework-template/static/js/3.4122d781.chunk.js.map",
+    "index.html": "/cra-homework-template/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cra-homework-template/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e2fdc5b8.chunk.js.LICENSE.txt": "/cra-homework-template/static/js/2.e2fdc5b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cra-homework-template/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31642565.js",
+    "static/js/2.e2fdc5b8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5c06b86a.chunk.js"
+  ]
+}
